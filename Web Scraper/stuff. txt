@@ -1,0 +1,51 @@
+<p class="paragraph inline-placeholder" data-uri="cms.cnn.com/_components/paragraph/instances/clo6fmt67005q68qsh9u5722w@published" data-editable="text" data-component-name="paragraph" data-article-gutter="true" data-analytics-observe="off">
+      Israel conducted a “targeted raid” using tanks in northern Gaza before withdrawing, its military said Thursday, as Prime Minister Benjamin Netanyahu warned a&nbsp;<a href="http://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-10-26-23/index.html">ground incursion</a>&nbsp;into the besieged enclave will take place.
+  </p>
+
+<a href="https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/index.html" class="container__title-url container_lead-package__title-url" data-zjs="click" data-zjs-cms_id="cms.cnn.com/_pages/clg35wfph000047qb0ndy7s77@published" data-zjs-canonical_url="https://www.cnn.com" data-zjs-zone_id="cms.cnn.com/_components/zone/instances/clnubvtb400003b6i6qk45g06@published" data-zjs-zone_name="undefined" data-zjs-zone_type="zone_layout--wide-left-balanced-2" data-zjs-zone_position_number="1" data-zjs-zone_total_number="8" data-zjs-container_id="cms.cnn.com/_components/container/instances/clnubvth600083b6iz7mfnp6g@published" data-zjs-container_name="Arrest warrant issued for shootings suspect; Maine residents are locked down" data-zjs-container_type="container_lead-package" data-zjs-container_position_number="1" data-zjs-container_total_number="4">
+          <h2 class="container__title_url-text container_lead-package__title_url-text" data-editable="title">Arrest warrant issued for shootings suspect; Maine residents are locked down</h2>
+          <p class="container__title_url-sub-text container_lead-package__title_url-sub-text">Show&nbsp;all</p>
+        </a>
+
+<a href="/us/live-news/lewiston-maine-mass-shootings-10-27-23/index.html" class="container__link container__link--type-live-story container_lead-plus-headlines-with-images__link container_lead-plus-headlines-with-images__left container_lead-plus-headlines-with-images__light" data-link-type="live-story" data-zjs="click" data-zjs-cms_id="cms.cnn.com/_pages/clg35wfph000047qb0ndy7s77@published" data-zjs-canonical_url="https://www.cnn.com" data-zjs-zone_id="cms.cnn.com/_components/zone/instances/clnubvtb400003b6i6qk45g06@published" data-zjs-zone_name="undefined" data-zjs-zone_type="zone_layout--wide-left-balanced-2" data-zjs-zone_position_number="1" data-zjs-zone_total_number="8" data-zjs-container_id="cms.cnn.com/_components/container/instances/clnubvth600083b6iz7mfnp6g@published" data-zjs-container_name="Law enforcement face challenges in search for Maine shooting suspect" data-zjs-container_type="container_lead-plus-headlines-with-images" data-zjs-container_position_number="1" data-zjs-container_total_number="4" data-zjs-card_id="cms.cnn.com/_components/card/instances/clo84agp400363b6gpab5bn6j@published" data-zjs-card_name="An intense manhunt is underway for suspect Robert Card, 36 hours after mass shootings left 18 dead. His experience with guns and the outdoors make the effort dangerous." data-zjs-card_type="card" data-zjs-card_position_number="1" data-zjs-card_total_number="3">
+                            <div class="container__item-media-wrapper container_lead-plus-headlines-with-images__item-media-wrapper card--media-large" data-breakpoints="{&quot;card--media-large&quot;: 596}">
+        <div class="container__item-media  container_lead-plus-headlines-with-images__item-media">
+                                  <div data-uri="cms.cnn.com/_components/interactive-video/instances/clo84agwf003d3b6gi05yuunc@published" class="interactive-video" data-component-name="interactive-video" data-unselectable="true">
+        <div class="interactive-video__container ">
+            <video class="interactive-video__player" loop="" muted="" autoplay="" playsinline="" webkit-playsinline="">
+                <source src="https://media.cnn.com/api/v1/loops/stellar/prod/maine-manhunt.mp4?c=original" type="video/mp4">
+
+            </video>
+        </div>
+</div>
+
+                <div class="card__label card__label--type-updates">
+                    <span class="card__label-icon"></span>
+                    <span class="card__label-bull-span">
+                    <span class="card__label-indicator">•</span>Live Updates</span>
+                </div>
+        </div>
+    </div>
+    </a>
+
+    Todays Top Headlines
+--------------------
+1. Israel-Hamas war
+----------------------------------------
+---------------------------------------------------------------------------
+/world/middleeast/israel-gaza-hamas-war-friday-intl-hnk/index.html
+
+
+
+
+
+"container_field-links container_lead-plus-headlines-with-images__field-links"
+
+links_with_html_extension = [link.get("href") for link in soup.find_all("a", href=True) if link["href"].endswith(".html")]
+
+
+
+<a href="https://edition.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23" class="container__title-url container_lead-plus-headlines-with-images__title-url">
+          <h2 class="container__title_url-text container_lead-plus-headlines-with-images__title_url-text" data-editable="title">Law enforcement face challenges in search for Maine shooting suspect</h2>
+          <p class="container__title_url-sub-text container_lead-plus-headlines-with-images__title_url-sub-text">Show&nbsp;all</p>
+        </a>
